@@ -107,7 +107,7 @@ a.repo {
 	margin-bottom: 20px;
   }
 
-  .skills {
+.skills {
     display: flex;
     flex-wrap: wrap;
     gap: 10px; /* This adds space between the boxes */
