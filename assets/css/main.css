@@ -95,6 +95,38 @@ input, select, textarea {
     text-align: center;
 }
 
+a.repo {
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+	background: #3BA8D3;
+	padding: 0 1rem;
+	height: 2.5rem;
+	display: inline-flex;
+	justify-content: center;
+	border-radius: 1.25rem;
+	margin-bottom: 20px;
+  }
+
+  .skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* This adds space between the boxes */
+    padding: 10px;
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+}
+
+.skill {
+    background-color: #e0e0e0; /* Light gray background */
+    padding: 8px 16px;
+    border-radius: 5px; /* Rounded corners */
+    font-size: 1.2rem;
+    font-family: Arial, sans-serif;
+	font-weight: bold;
+	color: #333;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+}
+
 /* Basic */
 
 	html {
