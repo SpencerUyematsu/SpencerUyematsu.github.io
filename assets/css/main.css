@@ -100,11 +100,9 @@ a.repo {
 	color: rgb(255, 255, 255);
 	background: #3BA8D3;
 	padding: 0 1rem;
-	height: 2.5rem;
 	display: inline-flex;
 	justify-content: center;
 	border-radius: 1.25rem;
-	margin-bottom: 20px;
   }
 
   .skills {
@@ -123,7 +121,7 @@ a.repo {
     font-size: 1.2rem;
     font-family: Arial, sans-serif;
 	font-weight: bold;
-	color: #333;
+	color: #6b6b6b;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 }
 
